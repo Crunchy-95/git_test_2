@@ -1,1 +1,2 @@
 Well hi there! I hate my job so much that I decided to learn web dev instead. Hopefully it works!
+Testing the VSC integration for writing commit messages
